@@ -12,6 +12,7 @@ The analysis focuses on:
 - Data Quality Assessment
   
 # Dataset Size:
+- Source - https://www.kaggle.com/datasets/ashyou09/global-data-center-and-ai-waterelectricity-usage
 - 126,770 records
 - 14 features
 
