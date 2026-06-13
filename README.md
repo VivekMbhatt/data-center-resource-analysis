@@ -78,3 +78,5 @@ Examples:
 
 This limited reliable country-level analysis and highlighted
 the importance of data quality validation.
+
+Analysis Graphs
